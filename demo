@@ -109,8 +109,15 @@
 <p>メール：<a href="mailto:your@email.com">your@email.com</a></p>
 <p>GitHub：<a href="https://github.com/yourname" target="_blank">github.com/yourname</a></p>
 
+<h2>自己紹介表</h2>
+<table border="1">
+  <tr><th>項目</th><th>内容</th></tr>
+  <tr><td>名前</td><td>永嶋来愛里</td></tr>
+  <tr><td>出身</td><td>千葉県</td></tr>
+  <tr><td>趣味</td><td>パズル</td></tr>
+</table>
 
-    </div>
+　 </div>
 
 </body>
 </html>
