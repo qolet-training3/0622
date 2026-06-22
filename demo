@@ -10,7 +10,7 @@
            ======================================================== */
         body {
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
-            background-color: #f4f7f6; 
+            background-color: #C709D942; 
             font-family: 'Helvetica Neue', Arial, sans-serif;
             color: #333333;
             margin: 0;
@@ -70,7 +70,7 @@
             font-size: 14px;
             transition: background 0.3s;
             /* 【ワーク】ボタンの色を変えてみよう（例：#ff6b6b、#4dabf7、#51cf66 など） */
-            background-color: #0369a1; 
+            background-color: #C709D9D4; 
         }
         .btn:hover {
             opacity: 0.9;
@@ -81,7 +81,7 @@
 
     <div class="container">
         
-        <img src="https://placehold.co/150" alt="プロフィール画像" class="profile-img">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjEaM6ETRFsaCy3bC-Wyhwh7rLxtwuXnBM96Z3sZHwNmMjaWZDBlj8DFzEE2Q-_n1JZmKnNhVTO6nIAVwT5ek6a_RHiWAzXH-rBVampsdesu5aXjRLXR4ILNlFptdydrxRyfNP70xaEEv8/s400/cat_kotatsu_neko.png" alt="プロフィール画像" class="profile-img">
 
         <h1>永嶋 来愛里</h1>
         
