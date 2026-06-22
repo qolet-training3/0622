@@ -72,6 +72,16 @@
             /* 【ワーク】ボタンの色を変えてみよう（例：#ff6b6b、#4dabf7、#51cf66 など） */
             background-color: #C709D9D4; 
         }
+        .table {
+            border-collapse: collapse; /* 枠線を重ねる */
+            margin: 0 auto;           /* 左右のマージンを自動にして中央寄せ */
+            width: 60%;               /* 任意の幅 */
+            border: 1px solid #333;
+        }
+  th, td {
+    border: 1px solid #333;
+    padding: 8px;
+  }
         .btn:hover {
             opacity: 0.9;
         }
